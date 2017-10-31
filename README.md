@@ -15,4 +15,13 @@ format date to custom style, show one week, one quarter, etc. for example, forma
 * input "2016-01-01"
 * output "2016年01月"
 
+### usage
+
+import {formatDateToQuarter} from 'format-date-to-week';
+```
+let inputDate = '2016-01-01';
+let outputDate = formatDateToQuarter(inputDate);
+console.log(outputDate);// '2016年Q1'
+```
+
 
