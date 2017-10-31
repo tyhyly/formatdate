@@ -2,7 +2,7 @@
   "name": "formatdate",
   "version": "1.0.1",
   "description": "format date to custom style ,like month, week, quarter",
-  "keywords": ["format date to week, month, quarter"],
+  "keywords": ["format date", "to week", "to month", "to quarter"],
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,8 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/tyhyly/formatdate.git"
   },
-  "author": "Lory Lee",
-  "license": "ISC",
+  "author": {
+    "name": "Lory Lee",
+    "email": "lvyelinggua@126.com"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tyhyly/formatdate/issues"
   },
