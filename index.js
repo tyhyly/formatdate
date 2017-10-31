@@ -1,3 +1,7 @@
-import {formatDateToWeek} from "./lib/index";
+import {formatDateToWeek, formatDateToMonth, formatDateToQuarter} from "./lib/index";
 
-module.exports = formatDateToWeek;
+module.exports = {
+    formatDateToWeek,
+    formatDateToMonth,
+    formatDateToQuarter
+};
