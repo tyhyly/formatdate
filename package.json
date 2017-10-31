@@ -1,6 +1,6 @@
 {
   "name": "format-date-to-week",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a plugin for formatting date to custom style ,like month, week, quarter",
   "keywords": ["format date", "to week", "to month", "to quarter"],
   "main": "index.js",
